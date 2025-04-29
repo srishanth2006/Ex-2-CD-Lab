@@ -78,7 +78,8 @@ int yywrap() {
 
 ````
 # OUTPUT
-![Uploading Screenshot 2025-04-29 133712.png…]()
+![Screenshot 2025-04-29 133712](https://github.com/user-attachments/assets/d3d7dc21-fda0-404b-99d8-aee2650d0c7a)
+
 
 # RESULT
 ## The lexical analyzer is implemented using lex and the output is verified.
